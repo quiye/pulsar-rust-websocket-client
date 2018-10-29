@@ -23,6 +23,12 @@ $ cd pulsar-rust-websocket-client
 $ cargo run
 ```
 
+then,
+
+```
+Got message: {"result":"ok","messageId":"CHcQAg==","context":"5"}
+```
+
 ### Consume
 
 TODO
