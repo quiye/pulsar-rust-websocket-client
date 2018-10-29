@@ -1,0 +1,6 @@
+[package]
+name = "pulsar-rust-websocket-client"
+version = "0.1.0"
+authors = ["quiye <zamasu@gmail.com>"]
+
+[dependencies]
