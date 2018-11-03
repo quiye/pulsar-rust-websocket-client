@@ -7,7 +7,6 @@ services:
 
 before_install:
 - docker pull apachepulsar/pulsar:2.2.0
-- docker run -d -p 6650:6650 -p 8080:8080 -v $PWD/data:/pulsar/data apachepulsar/pulsar:2.2.0 bin/pulsar standalone
 - docker ps -a
 
 script:
