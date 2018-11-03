@@ -1,5 +1,7 @@
 # Rust Pulsar Producer Sample
 
+[![Build Status](https://travis-ci.com/quiye/pulsar-rust-websocket-client.svg?branch=master)](https://travis-ci.com/quiye/pulsar-rust-websocket-client)
+
 This is [Pulsar](https://pulsar.apache.org) producer sample code, an analogy of [Python producer code](https://pulsar.apache.org/docs/en/client-libraries-websocket/#python-producer).
 
 ## How To Run Sample Code
